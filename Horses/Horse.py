@@ -21,5 +21,5 @@ class Horse:
             print("I'm drinking :)")
         else:
             #unieść wyjątek
-            raise Exception("I'm underage :(")
+            raise Exception("I'm not allowed to drink yet :(")
 
