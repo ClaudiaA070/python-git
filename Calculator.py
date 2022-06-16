@@ -26,7 +26,9 @@ def MemCheck(self):
     # KONIEC KLASY
 
 
-naszKalkulator = Calculator()
+naszKalkulator = Calculator(3)
+naszKalkulator.PrintMem()
+
 result = naszKalkulator.Add(4, 6)
 naszKalkulator.MemPlus(result)
 
@@ -36,3 +38,5 @@ result = naszKalkulator.Subtract(4, 6)
 naszKalkulator.MemMinus(result)
 
 print(naszKalkulator.MemCheck())
+
+naszKalkulator.PrintMem()

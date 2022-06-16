@@ -25,8 +25,8 @@ age = input("How old are you?")
 age = int(age)
 
 
-welcome = "Hi! \nMy name is " + firstName + " " + lastName + "."
-print(welcome)
+#welcome = "Hi! \nMy name is " + firstName + " " + lastName + "."
+#print(welcome)
 
 # sprawdzanie pelnoletnosci
 
@@ -39,4 +39,16 @@ elif not isUnderage:
     print("Jestem pełnoletnia")
 else:
     print("I'm underage.")
-    
+
+#5! = 1 * 2 * 3 * 4 * 5  = 4! * 5
+# 4! = 1 * 2* 3 * 4      = 3! * 4   itd..
+
+def Factorial (number):
+    if number ==1:
+        return 1
+
+    return Factorial(number - 1)* number
+
+# policzenie silni z podanego wieku
+ageFactorial = Factorial(age)
+print(str(age) + "! = " + str(ageFactorial))
