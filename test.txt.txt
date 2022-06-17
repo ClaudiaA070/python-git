@@ -1,3 +1,10 @@
 Tutaj wiadomość od komputera A. Mam nadzieję że u Ciebie wszystko działa :)
 
+<<<<<<< HEAD
 Jest to duzo prostsze niż konsola.
+=======
+Dzisiaj będziemy używać Github Desktop
+>>>>>>> 72593199ba7745fcbf8c829bed88f42ef10fe163
+
+
+Kod napisany z komputera B
