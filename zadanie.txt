@@ -3,4 +3,4 @@ Zadanie na konflikty:
 1. Tutaj wiadomość od komputera A
 2. Tutaj wiadomość od komputera A
 3. Komputer B dodał punkt 3.
-3. Komputer A dodał punkt 3.
+3. 
