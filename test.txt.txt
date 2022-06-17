@@ -1,1 +1,3 @@
 Tutaj wiadomość od komputera A. Mam nadzieję że u Ciebie wszystko działa :)
+
+Jest to duzo prostsze niż konsola.
