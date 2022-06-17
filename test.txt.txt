@@ -1,5 +1,13 @@
 Tutaj wiadomość od komputera A. Mam nadzieję że u Ciebie wszystko działa :)
 
+
+Jest to duzo prostsze niż konsola.
+
+Dzisiaj będziemy używać Github Desktop
+
+
+Kod napisany z komputera B
 Dzisiaj będziemy używać Github Desktop
 
 Kod napisany zkomputera A
+
