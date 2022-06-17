@@ -1,3 +1,5 @@
 Tutaj wiadomość od komputera A. Mam nadzieję że u Ciebie wszystko działa :)
 
 Dzisiaj będziemy używać Github Desktop
+
+Kod napisany zkomputera A
